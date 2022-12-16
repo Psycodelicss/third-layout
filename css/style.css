@@ -1,0 +1,81 @@
+.container {
+	width: 1140px !important;
+	margin: 0 auto;
+}
+.headrs { 
+	background: url('../img/bg-header.png') no-repeat center;
+	height: 813px;
+    min-width: 1440px;
+    background-size: 100% 100%;
+ }
+ .h1-s1 {
+ 	font-family: "exo", sans-serif;
+ 	font-weight: 100;
+ 	font-size: 60px;
+ 	line-height: 75px;
+ 	color: #282828;
+ 	text-align: center;
+ 	margin: 240px 0 0 0;
+
+ }
+ .play {
+ 	text-align: center;
+ 	vertical-align: middle;
+ }
+ .btn-s1 {
+	background: #ff2d2d;
+	box-sizing: border-box;
+	border-radius: 5px;
+	width: 192px;
+	height: 50px;
+	margin: 0 auto;
+	text-align: center;
+}
+.btn-s1 a {
+	text-decoration: none;
+	color: #fff;
+	display: block;
+	line-height: 50px;
+}
+.btn-s1a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+ .section2 {
+ 	height: 725px;
+ 	background-color: #000;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
+ .section3 {
+ 	height: 675px;
+ 	background-color: #222;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
+
+ .section4 {
+ 	height: 550px;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
+ .section5 {
+ 	height: 650px;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
+ .section6 {
+ 	height: 755px;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
+ .section7 {
+ 	height: 465px;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
+ .footers {
+ 	height: 330px;
+ 	width: 100%;
+ 	min-width: 1440px;
+ }
